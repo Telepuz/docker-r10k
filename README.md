@@ -1,4 +1,4 @@
-# GIT r10k
+# R10K
 
 ## Supported tags
 
